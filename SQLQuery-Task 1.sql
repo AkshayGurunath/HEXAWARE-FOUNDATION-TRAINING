@@ -5,7 +5,7 @@ CREATE TABLE Customers (
   CustomerID INT PRIMARY KEY,
   FirstName VARCHAR(50) NOT NULL,
   LastName VARCHAR(50) NOT NULL,
-  Email VARCHAR(100) UNIQUE NOT NULL,   
+  Email VARCHAR(100) UNIQUE NOT NULL, Â  
 
   Phone VARCHAR(20),
   Address VARCHAR(255)
@@ -31,7 +31,7 @@ CREATE TABLE OrderDetails (
   OrderID INT NOT NULL,
   ProductID INT NOT NULL,
   Quantity INT NOT NULL,
-  FOREIGN KEY (OrderID) REFERENCES Orders(OrderID),   
+  FOREIGN KEY (OrderID) REFERENCES Orders(OrderID), Â  
 
   FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
 );

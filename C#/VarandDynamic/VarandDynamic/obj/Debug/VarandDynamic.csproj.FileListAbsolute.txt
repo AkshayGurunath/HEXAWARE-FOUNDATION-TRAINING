@@ -1,0 +1,7 @@
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\VarandDynamic\VarandDynamic\bin\Debug\VarandDynamic.exe.config
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\VarandDynamic\VarandDynamic\bin\Debug\VarandDynamic.exe
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\VarandDynamic\VarandDynamic\bin\Debug\VarandDynamic.pdb
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\VarandDynamic\VarandDynamic\obj\Debug\VarandDynamic.csproj.AssemblyReference.cache
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\VarandDynamic\VarandDynamic\obj\Debug\VarandDynamic.csproj.CoreCompileInputs.cache
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\VarandDynamic\VarandDynamic\obj\Debug\VarandDynamic.exe
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\VarandDynamic\VarandDynamic\obj\Debug\VarandDynamic.pdb

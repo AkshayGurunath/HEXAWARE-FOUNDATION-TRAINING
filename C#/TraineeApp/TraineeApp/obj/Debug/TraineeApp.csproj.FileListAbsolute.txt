@@ -1,0 +1,2 @@
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\TraineeApp\TraineeApp\obj\Debug\TraineeApp.csproj.AssemblyReference.cache
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\TraineeApp\TraineeApp\obj\Debug\TraineeApp.csproj.CoreCompileInputs.cache

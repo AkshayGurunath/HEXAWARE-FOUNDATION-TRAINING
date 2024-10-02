@@ -1,0 +1,7 @@
+C:\c#\Lab Exercise-looping\Lab Exercise-looping\bin\Debug\Lab Exercise-looping.exe.config
+C:\c#\Lab Exercise-looping\Lab Exercise-looping\bin\Debug\Lab Exercise-looping.exe
+C:\c#\Lab Exercise-looping\Lab Exercise-looping\bin\Debug\Lab Exercise-looping.pdb
+C:\c#\Lab Exercise-looping\Lab Exercise-looping\obj\Debug\Lab Exercise-looping.csproj.AssemblyReference.cache
+C:\c#\Lab Exercise-looping\Lab Exercise-looping\obj\Debug\Lab Exercise-looping.csproj.CoreCompileInputs.cache
+C:\c#\Lab Exercise-looping\Lab Exercise-looping\obj\Debug\Lab Exercise-looping.exe
+C:\c#\Lab Exercise-looping\Lab Exercise-looping\obj\Debug\Lab Exercise-looping.pdb

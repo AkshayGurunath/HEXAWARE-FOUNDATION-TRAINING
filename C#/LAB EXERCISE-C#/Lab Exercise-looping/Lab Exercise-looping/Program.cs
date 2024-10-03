@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //9. Program to display numbers in reverse order from 50 to 1 using a for loop:
-/*namespace Lab_Exercise_looping
+namespace Lab_Exercise_looping
 {
     class Program
     {
@@ -18,10 +18,10 @@ using System.Threading.Tasks;
             Console.ReadLine();
         }
     }
-}*/
+}
 
 //10.Odd Numbers between 1 to 50 using do -while loop:
-/*class Program
+class Program
 {
     static void Main()
     {
@@ -38,9 +38,9 @@ using System.Threading.Tasks;
         Console.ReadLine();  // Keeps the console open
     }
 }
-*/
+
 //11. Even Numbers between 1 to 50 using while loop:
-/*class Program
+class Program
 {
     static void Main()
     {
@@ -56,11 +56,11 @@ using System.Threading.Tasks;
 
         Console.ReadLine();  // Keeps the console open
     }
-}*/
+}
 
 
 //12. Print Table of a Given Number:
-/*class Program
+class Program
 {
     static void Main()
     {
@@ -74,11 +74,11 @@ using System.Threading.Tasks;
 
         Console.ReadLine();  // Keeps the console open
     }
-}*/
+}
 
 
 //13. Even Numbers from a Given Array:
-/*class Program
+class Program
 {
     static void Main()
     {
@@ -95,5 +95,5 @@ using System.Threading.Tasks;
 
         Console.ReadLine();  // Keeps the console open
     }
-}*/
+}
 
